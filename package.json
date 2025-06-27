@@ -1,0 +1,20 @@
+{
+  "name": "fastcampus-mives-app",
+  "version": "1.0.0",
+
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html",
+    "vercel": "vercel dev" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}

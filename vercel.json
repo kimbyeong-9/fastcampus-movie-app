@@ -1,0 +1,4 @@
+{
+    "devCommand": "npm run vercel",
+    "buildCommand": "npm run build"
+}
