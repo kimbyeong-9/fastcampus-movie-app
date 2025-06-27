@@ -1,7 +1,6 @@
 {
   "name": "fastcampus-mives-app",
   "version": "1.0.0",
-
   "scripts": {
     "dev": "parcel ./index.html",
     "build": "parcel build ./index.html",
@@ -13,9 +12,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "-": "^0.0.1"
+    "-": "^0.0.1",
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
+    "dotenv": "^16.6.0",
     "parcel": "^2.15.4"
   }
 }
